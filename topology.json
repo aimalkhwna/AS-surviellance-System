@@ -1,0 +1,20 @@
+{
+  "nodes": [
+    {
+      "id": "cam-iriun-01",
+      "name": "Shahzeb Mobile",
+      "is_camera": true
+    },
+    {
+      "id": "cam-laptop-01",
+      "name": "Laptop Webcam",
+      "is_camera": true
+    },
+    {
+      "id": "cam-iriun-02",
+      "name": "Aimal Mobile",
+      "is_camera": true
+    }
+  ],
+  "edges": []
+}
